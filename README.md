@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/
 
 ---
 
-push test 234567
+push test 2345678
